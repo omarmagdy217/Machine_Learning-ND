@@ -17,6 +17,7 @@ This project uses the following software and Python libraries:
 * [pandas](https://pandas.pydata.org/)
 * [scikit-learn](https://scikit-learn.org/stable/) (v0.21)
 * [matplotlib](https://matplotlib.org/)
+* [mlxtend](https://pypi.org/project/mlxtend/) (0.17)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/).
 
